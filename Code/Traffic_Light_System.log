@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"D:\SFE\2nd Communications\Summer Training\Embedded Systems\Traffic_Light_System\Project\Code\Traffic_Light_System.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"D:\SFE\2nd Communications\Summer Training\Embedded Systems\Traffic_Light_System\Project\Code\" "Traffic_Light_System.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Traffic_Light_System.c
+diagnostics: 123	123	Compiled Successfully	Traffic_Light_System.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RAM (bytes): 56 (16%)  Free RAM (bytes): 296 (84%)	Used RAM (bytes): 56 (16%)  Free RAM (bytes): 296 (84%)
+hint: 0	1144	Used ROM (program words): 521 (6%)  Free ROM (program words): 7671 (94%)	Used ROM (program words): 521 (6%)  Free ROM (program words): 7671 (94%)
+diagnostics: 0	125	Project Linked Successfully	Traffic_Light_System.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'Traffic_Light_System.mcppi' completed: 250 ms	 
+diagnostics: 0	103	Finished successfully: 09 Aug 2024, 08:37:48	Traffic_Light_System.mcppi
